@@ -1,0 +1,37 @@
+.grid-initial {
+  background-color: #e5eff5;
+  color: white;
+}
+
+.grid-initial .fw-bold {
+  color: #2ab2af;
+}
+
+.grid-initial .normal {
+  color: #c0df34;
+}
+
+.grid-initial .lh-large {
+  color: #98a6bd;
+}
+
+.first-grid {
+  background-color: #2ab2af;
+  color: white;
+}
+
+.first-grid .btn {
+  background-color: #c0df34;
+  border: #c0df34 solid 2px;
+  -webkit-box-shadow: 0px 0px 10px black;
+          box-shadow: 0px 0px 10px black;
+  color: white;
+  width: 100%;
+}
+
+.second-grid {
+  background-color: #2ab2af;
+  opacity: 0.6;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
